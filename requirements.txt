@@ -1,0 +1,8 @@
+flask # [cite: 30]
+redis # [cite: 30]
+python-dotenv # [cite: 30]
+selenium # [cite: 30]
+# imapclient is listed in the doc, but standard imaplib is used here. [cite: 30]
+# If you specifically want imapclient, add it and adjust email_processor.py
+chromedriver-autoinstaller # [cite: 30]
+# Add any other specific versions if needed, e.g., Flask==2.3.2
